@@ -1,0 +1,7 @@
+package test;
+public class Test {
+int o = 8;
+public static void main(String[] args) {
+Test myObj  = new Test(); 
+System.out.println(myObj.o);
+}}
